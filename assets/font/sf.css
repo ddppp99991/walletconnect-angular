@@ -1,0 +1,25 @@
+/* 定义字体 */
+@font-face{
+    font-family: MuktaVaani-Bold;
+    src: url("./MuktaVaani-Bold.ttf");
+}
+/* 定义字体 */
+@font-face{
+    font-family: MuktaVaani-ExtraBold;
+    src: url("./MuktaVaani-ExtraBold.ttf");
+}
+/* 定义字体 */
+@font-face{
+    font-family: MuktaVaani-Medium;
+    src: url("./MuktaVaani-Medium.ttf");
+}
+/* 定义字体 */
+@font-face{
+    font-family: MuktaVaani-Regular;
+    src: url("./MuktaVaani-Regular.ttf");
+}
+/* 定义字体 */
+@font-face{
+    font-family: MuktaVaani-SemiBold;
+    src: url("./MuktaVaani-SemiBold.ttf");
+}
